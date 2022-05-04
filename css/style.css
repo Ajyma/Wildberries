@@ -33,6 +33,8 @@
 .categories_list{
   display: flex;
   justify-content: space-evenly;
+  flex-wrap: wrap;
+  gap: 15px;
   padding: 1rem;
 }
 .categories_list button{
